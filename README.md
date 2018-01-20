@@ -1,2 +1,2 @@
-# Websocket-Timestamp
-Comparsion of Websocket timestamp with system Time
+# Websocket-DateandTimestamp
+Comparsion of Websocket dateandtimestamp with system's current DateandTime
